@@ -1,4 +1,4 @@
-cd path/to/product-scraper-api   # برو داخل همون پوشه‌ای که پروژه هست
+cd path/to/product-scraper-api
 git init
 git remote add origin https://github.com/USERNAME/product-scraper.git
 git add .
